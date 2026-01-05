@@ -28,4 +28,4 @@ This tool allows you to store, generate, and check passwords locally. It focuses
    python main.py
 
 ---
-Created by Ammar Ahmad Alsaidi - Cyber Security Student
+Created by Ammar Ahmad Alseidi - Cyber Security
