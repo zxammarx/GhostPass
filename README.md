@@ -20,11 +20,12 @@ This tool allows you to store, generate, and check passwords locally. It focuses
 2. **Install dependencies:**
    pip install termcolor pyfiglet
 
-3. **Run the application:**
-   python main.py
+3. **Download Wordlist (Important):**
+   Download `rockyou.txt` from the link below and place it in the same folder as `main.py`:
+   [Download rockyou.txt](https://weakpass.com/wordlists/rockyou.txt)
 
-**Important Note:**
-For the Leak Detection feature to work, you must place the `rockyou.txt` file in the same directory as `main.py`.
+4. **Run the application:**
+   python main.py
 
 ---
 Created by Ammar Ahmad Alsaidi - Cyber Security Student
