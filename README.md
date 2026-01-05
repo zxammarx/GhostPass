@@ -14,7 +14,7 @@ This tool allows you to store, generate, and check passwords locally. It focuses
 ## How to Run
 
 1. **Clone the repository:**
-   git clone https://github.com/YOUR_USERNAME/GhostPass.git
+   git clone https://github.com/zxammarx/GhostPass.git
    cd GhostPass
 
 2. **Install dependencies:**
@@ -24,7 +24,7 @@ This tool allows you to store, generate, and check passwords locally. It focuses
    python main.py
 
 **Important Note:**
-For the Leak Detection feature to work, you must download the `rockyou.txt` wordlist 
+For the Leak Detection feature to work, you must place the `rockyou.txt` file in the same directory as `main.py`.
 
 ---
 Created by Ammar Ahmad Alsaidi - Cyber Security Student
