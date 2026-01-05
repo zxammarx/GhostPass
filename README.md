@@ -24,7 +24,7 @@ This tool allows you to store, generate, and check passwords locally. It focuses
    python main.py
 
 **Important Note:**
-For the Leak Detection feature to work, you must download the `rockyou.txt` wordlist and place it inside the `password_manager/` directory.
+For the Leak Detection feature to work, you must download the `rockyou.txt` wordlist 
 
 ---
 Created by Ammar Ahmad Alsaidi - Cyber Security Student
