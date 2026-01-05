@@ -199,7 +199,7 @@ def check_pass():
     print(masg_cheack, end=" ")
     user_password = input()
 
-    rockyou = open("password_manager/rockyou.txt", "r", encoding = "utf-8", errors="ignore")
+    rockyou = open("rockyou.txt", "r", encoding = "utf-8", errors="ignore")
 
     for password in rockyou:
 
@@ -276,4 +276,5 @@ while True:
         os.system('cls||clear')
         print(50 * "*")
         print("Wrong Choice Choose again")
+
         print(50 * "*")
